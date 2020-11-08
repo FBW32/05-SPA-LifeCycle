@@ -1,0 +1,54 @@
+body {
+  background: lightblue;
+  border: 1px solid black;
+  height: 900px;
+}
+h1 {
+  color: aliceblue;
+  font-size: 30px;
+}
+.Header {
+  height: 120px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+table {
+  border: 1px solid white;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: lightgray;
+  width: 500px;
+}
+
+td,
+th {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+#txt-search,
+#btn-search {
+  margin-left: 10px;
+  height: 30px;
+  width: 200px;
+}
+
+.about-p {
+  font-size: 50px;
+  text-align: center;
+}
+
+span {
+  float: right;
+  font-size: 25px;
+  color: aliceblue;
+  padding: 4px;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
